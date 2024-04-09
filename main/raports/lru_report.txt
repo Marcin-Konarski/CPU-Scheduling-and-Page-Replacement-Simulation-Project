@@ -1,0 +1,33 @@
+Current: 7 Frame Status: ['7'] Page Faults: 1
+Current: 2 Frame Status: ['7', '2'] Page Faults: 2
+Current: 9 Frame Status: ['7', '2', '9'] Page Faults: 3
+Current: 0 Frame Status: ['0', '2', '9'] Page Faults: 4
+Current: 3 Frame Status: ['0', '3', '9'] Page Faults: 5
+Current: 5 Frame Status: ['0', '3', '5'] Page Faults: 6
+Current: 6 Frame Status: ['6', '3', '5'] Page Faults: 7
+Current: 3 Frame Status: ['6', '3', '5']
+Current: 3 Frame Status: ['6', '3', '5']
+Current: 9 Frame Status: ['6', '3', '9'] Page Faults: 8
+Current: 2 Frame Status: ['2', '3', '9'] Page Faults: 9
+Current: 1 Frame Status: ['2', '1', '9'] Page Faults: 10
+Current: 0 Frame Status: ['2', '1', '0'] Page Faults: 11
+Current: 3 Frame Status: ['3', '1', '0'] Page Faults: 12
+Current: 2 Frame Status: ['3', '2', '0'] Page Faults: 13
+Current: 3 Frame Status: ['3', '2', '0']
+Current: 2 Frame Status: ['3', '2', '0']
+Current: 1 Frame Status: ['3', '2', '1'] Page Faults: 14
+Current: 9 Frame Status: ['9', '2', '1'] Page Faults: 15
+Current: 0 Frame Status: ['9', '0', '1'] Page Faults: 16
+Current: 9 Frame Status: ['9', '0', '1']
+Current: 4 Frame Status: ['9', '0', '4'] Page Faults: 17
+Current: 7 Frame Status: ['9', '7', '4'] Page Faults: 18
+Current: 0 Frame Status: ['0', '7', '4'] Page Faults: 19
+Current: 1 Frame Status: ['0', '7', '1'] Page Faults: 20
+Current: 2 Frame Status: ['0', '2', '1'] Page Faults: 21
+Current: 8 Frame Status: ['8', '2', '1'] Page Faults: 22
+Current: 0 Frame Status: ['8', '2', '0'] Page Faults: 23
+Current: 3 Frame Status: ['8', '3', '0'] Page Faults: 24
+Current: 0 Frame Status: ['8', '3', '0']
+Current: 2 Frame Status: ['2', '3', '0'] Page Faults: 25
+Current: 3 Frame Status: ['2', '3', '0']
+Fault Ratio: 0.78125

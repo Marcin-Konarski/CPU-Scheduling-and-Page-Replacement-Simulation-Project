@@ -1,0 +1,24 @@
+ID	Arrival Time	Time Until Finish	Turnaround Time	Burst Time	Waiting Time
+0	0		1			1		1		0
+1	0		43			43		8		35
+2	1		6			5		5		0
+3	2		8			6		2		4
+4	5		86			81		12		69
+5	7		12			5		4		1
+6	7		19			12		7		5
+7	9		74			65		10		55
+8	13		25			12		6		6
+9	14		55			41		8		33
+10	15		64			49		9		40
+11	18		125			107		14		93
+12	21		32			11		7		4
+13	28		35			7		3		4
+14	31		98			67		12		55
+15	42		47			5		4		1
+16	54		255			201		100		101
+17	68		111			43		13		30
+18	69		155			86		30		56
+
+Total time for all processes to finish: 255
+Average Turnaround Time: 44.578947368421055
+Average Waiting Time: 31.157894736842106
